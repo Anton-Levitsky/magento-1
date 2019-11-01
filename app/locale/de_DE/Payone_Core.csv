@@ -597,6 +597,8 @@ DIRECT_DEBIT,Lastschrift
 "House number extension (billing address)","Adresszusatz (Rechnungsadresse)"
 "House number extension (shipping address)","Adresszusatz (Lieferadresse)"
 
+"Add payment method", "Zahlungsart hinzufügen"
+"Confirm", "Bestätigen"
 
 "MISSING_TRANSLATIONS_FOR_PLUGIN_CORE","…"
 "Add Payment","Zahlungsart hinzufügen"
